@@ -19,5 +19,11 @@
   "homepage": "https://github.com/voltraco/mp4-writer#readme",
   "devDependencies": {
     "mp4-parser": "^0.3.0"
+  },
+  "dependencies": {
+    "concat-stream": "^1.5.1",
+    "duplexify": "^3.4.3",
+    "minimist": "^1.2.0",
+    "xtend": "^4.0.1"
   }
 }
