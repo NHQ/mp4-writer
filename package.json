@@ -19,5 +19,9 @@
   "homepage": "https://github.com/voltraco/mp4-writer#readme",
   "devDependencies": {
     "mp4-parser": "^0.3.0"
+  },
+  "dependencies": {
+    "end-of-stream": "^1.1.0",
+    "run-series": "^1.1.4"
   }
 }
